@@ -5,6 +5,10 @@
         padding: 4;
       }
       li {
+        display: inline;
+      }
+      
+      li {
         float: left;
       }
 
