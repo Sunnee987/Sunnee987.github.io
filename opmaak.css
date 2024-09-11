@@ -4,4 +4,15 @@
         margin: 8;
         padding: 4;
       }
+      li {
+        float: left;
+      }
+
+      a {
+        display: block;
+        padding: 8px;
+        background-color: #eb90aa;
+
+      }
+      }
       }
