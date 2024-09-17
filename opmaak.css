@@ -1,24 +1,26 @@
 {body
     ul {
         list-style-type: none;
-        margin: 8;
-        padding: 4;
-      }
-      li {
-        display: inline;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ea5a9b;
       }
       
       li {
         float: left;
       }
-
-      a {
-        display: block;
-        padding: 8px;
-        background-color: #eb90aa;
-      }
-      p {
-        background-color: #eb90aa;
       
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #f394ba;
       }
       }
