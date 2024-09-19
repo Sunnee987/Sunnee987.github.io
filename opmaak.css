@@ -10,8 +10,8 @@
     
     ul {
         list-style-type: none;
-        margin: 0;
-        padding: 0;
+        margin: 1;
+        padding: 2;
         overflow: hidden;
         background-color: #ea5a9b;
       }
@@ -32,7 +32,7 @@
       }
 
       
-      /* Change the link color to #111 (black) on hover */
+      /* Change the link color to #f394ba (pink) on hover */
       li a:hover {
         background-color: #f394ba;
       }
