@@ -1,6 +1,9 @@
 {body
     
-      ul {
+      h1{ background-color: #ea5a9b;
+    }
+    
+    ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
@@ -8,7 +11,7 @@
         background-color: #ea5a9b;
       }
 
-      
+
       
       li {
         float: left;
