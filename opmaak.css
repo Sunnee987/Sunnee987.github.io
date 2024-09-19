@@ -1,45 +1,7 @@
 {body
-    
-     h1 { background-color: #ea5a9b;
-      
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
      }
-    
-     p1 { background-color: #f394ba;
-     
-     }
-    
-    ul {
-        list-style-type: none;
-        margin: 1;
-        padding: 2;
-        overflow: hidden;
-        background-color: #ea5a9b;
-      }
-
-
-      
-      li {
-        float: left;
-      }
-
-      
-      li a {
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-      }
-
-      
-      /* Change the link color to #f394ba (pink) on hover */
-      li a:hover {
-        background-color: #f394ba;
-      }
-
-
-      .active {
-        background-color: #fdfdfd;
-      }
-      
-      }
