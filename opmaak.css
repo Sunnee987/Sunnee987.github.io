@@ -1,3 +1,6 @@
-div {
-  background-color: rgba(230, 203, 173, 0.851);
+body { 
+  div {
+    background-color: rgba(128, 109, 0, 0.513);
+    opacity: 0.3;
+  }
 }
