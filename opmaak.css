@@ -1,4 +1,6 @@
-ul {
+body {
+  background-color: rgba(230, 223, 173, 0.649);
+}
   list-style-type: none;
   margin: 1;
   padding: 1;
