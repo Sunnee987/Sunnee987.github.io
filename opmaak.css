@@ -2,7 +2,9 @@ body {
   background-color: rgb(245, 233, 241);
 }
 
-h1   {font-style: initial;}
+h1   {font-style: initial;
+}
+
 ul {
   list-style-type: none;
   margin: 10;
