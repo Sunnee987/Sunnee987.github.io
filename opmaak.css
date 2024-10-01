@@ -2,6 +2,8 @@ body {
   background-color: rgb(245, 233, 241);
 }
 
+h1 {background-color: #ea5fac;}
+
 ul {
   list-style-type: none;
   margin: 10;
