@@ -38,11 +38,20 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color to #ee1248 (pink) on hover */
 li a:hover {
   background-color: #ee1284;
 }
 
 .active {
   background-color: #ee1284;
+}
+
+/* Add a white right border to all list items, except the last item (last-child) */
+li {
+  border-right: 1px solid #ffffff;
+}
+
+li:last-child {
+  border-right: none;
 }
