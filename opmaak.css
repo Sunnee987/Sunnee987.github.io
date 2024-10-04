@@ -2,11 +2,6 @@ body {
   background-color: rgb(245, 233, 241);
 } /* Dit zorgt ervoor dat de achtergrond van mijn website licht roze is */
 
-
-li {
-  float: left;
-}
-
 a {
   display: block;
   padding: 8px;
