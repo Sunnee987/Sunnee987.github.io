@@ -42,7 +42,7 @@ li a:hover {
   background-color: #ee1284;
 }
 
-/* Add a white right border to all list items, except the last item (last-child) */
+/* Voegt een wit lijntje toe aan de rechterkant van alle onderwerpen in mijn menu behalve de laatste */
 li {
   border-right: 3px solid #ffffff;
 }
