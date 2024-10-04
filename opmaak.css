@@ -1,6 +1,6 @@
 body { 
   background-color: rgb(245, 233, 241);
-}
+} /* Dit zorgt ervoor dat de achtergrond van mijn website licht roze is */
 
 
 ul {
@@ -19,7 +19,7 @@ a {
 }
 ul {
   background-color: #ea5fac;
-}
+} 
 
 ul {
   list-style-type: none;
@@ -41,7 +41,7 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #ee1248 (pink) on hover */
+/* Verandert de kleur naar een andere roze als je er met de muis overheen gaat */
 li a:hover {
   background-color: #ee1284;
 }
