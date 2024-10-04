@@ -3,12 +3,6 @@ body {
 } /* Dit zorgt ervoor dat de achtergrond van mijn website licht roze is */
 
 
-ul {
-  list-style-type: none;
-  margin: 10;
-  padding: 10;
-}
-
 li {
   float: left;
 }
@@ -17,9 +11,7 @@ a {
   display: block;
   padding: 8px;
 }
-ul {
-  background-color: #ea5fac;
-} 
+
 
 ul {
   list-style-type: none;
